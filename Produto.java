@@ -12,7 +12,7 @@ public class Produto {
     public Produto(String nome){
 
         this.nome= nome;
-        this.preco= 5.0;
+        this.preco= 8.0;
     }
 
     public void exibirDetalhes(){
