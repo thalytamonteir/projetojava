@@ -23,7 +23,7 @@ public class Produto {
      //psvm
     public static void main(String[] args) {
         Produto p1= new Produto("caderno", 10.0);
-        Produto p2= new Produto("Thalyta");
+        Produto p2= new Produto("linha");
         p1.exibirDetalhes();
         p2.exibirDetalhes();
         
