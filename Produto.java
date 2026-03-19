@@ -17,7 +17,7 @@ public class Produto {
 
     public void exibirDetalhes(){
         //sout
-        System.out.println("Nome Produto: " + nome + " \t"+ "Preco: " + preco);
+        System.out.println("Nome Produto: " + nome + " "+ "Preco: " + preco);
         
     }
      //psvm
